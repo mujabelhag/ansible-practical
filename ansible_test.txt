@@ -1,0 +1,6 @@
+ec2-98-81-184-218.compute-1.amazonaws.com | CHANGED | rc=0 >>
+hope you do good
+ec2-54-172-98-89.compute-1.amazonaws.com | CHANGED | rc=0 >>
+hope you do good
+ec2-54-87-198-19.compute-1.amazonaws.com | CHANGED | rc=0 >>
+hope you do good
